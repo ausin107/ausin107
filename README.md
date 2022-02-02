@@ -6,7 +6,7 @@ About me
 
 - 💼 I'm Frontend Devloper at [WebDev Studios][workplace]
 
-- 🔭 I'm currently learning everything to become Frontend Developer
+- 🔭 I'm learning something to become Frontend developer
 
 - ⚡ Not only love coding but also love watching Anime   
 
