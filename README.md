@@ -8,7 +8,7 @@ About me
 
 - 🔭 I'm learning something to become Frontend developer
 
-- ⚡ Not only love coding but also love watching Anime   
+- ❤ Having a big love with coding and watching Anime 😃  
 
 - 💬 Contact with me [here][facebook]
 
