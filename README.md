@@ -4,7 +4,7 @@
 ## I'm a New Developer!!
 About me
 
-- 💼 I'm Frontend Devloper at [WebDev Studios][https://www.facebook.com/webdevstudios.org]
+- 💼 I'm Frontend Devloper at [WebDev Studios][WebDev]
 
 - 🔭 I'm currently learning everything to become Frontend Developer
 
@@ -43,3 +43,4 @@ About me
 [linkedin]: https://linkedin.com/in/quinguyen107
 [facebook]: https://www.facebook.com/quinguyen107
 [stackoverflow]: https://stackoverflow.com/users/16989659/ausin
+[WebDev] : [https://www.facebook.com/webdevstudios.org]
