@@ -47,5 +47,3 @@ About me
 [stackoverflow]: https://stackoverflow.com/users/16989659/ausin
 [workplace]: https://www.facebook.com/webdevstudios.org
 
-## Snake Eating My Contribution Graph
-![snake gif](https://github.com/ausin107/ausin107/blob/output/github-contribution-grid-snake.gif)
