@@ -4,13 +4,10 @@
 ## I'm a New Developer!!
 About me
 
-- 💼 I'm Frontend Devloper at [WebDev Studios][workplace]
-
 - 👨‍💻 I'm learning something to become Frontend developer
 
 - ❤ Having a big love with coding and watching Anime 😃  
 
-- 💬 Contact with me [here][facebook]
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
